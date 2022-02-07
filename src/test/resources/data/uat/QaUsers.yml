@@ -1,0 +1,5 @@
+usuarios:
+  login: "dadosqa"
+  full_name: "Dados QA"
+  email: "dados.qa@gft.com"
+  age: "40"
