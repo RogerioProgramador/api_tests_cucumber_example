@@ -2,7 +2,7 @@
 
 Project made during the QA Academy classes given by Robson Agapito.
 
-## Prerequisite
+## Prerequisites
 
 *   Java 1.8 SDK
 *   Maven 3.5.*
