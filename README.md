@@ -4,8 +4,6 @@ Project made during the QA Academy classes given by Robson Agapito.
 
 ## Prerequisite
 
-Requisitos de software e hardware necessários para executar este projeto de automação
-
 *   Java 1.8 SDK
 *   Maven 3.5.*
 *   Intellij IDE
